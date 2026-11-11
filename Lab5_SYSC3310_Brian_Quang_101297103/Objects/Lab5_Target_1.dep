@@ -1,0 +1,27 @@
+Dependencies for Project 'Lab5', Target 'Target_1': (DO NOT MODIFY !)
+CompilerVersion: 6240000::V6.24::ARMCLANG
+F (.\main.c)(0x6AEBA974)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Keil_v5/ARM/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Keil_v5/ARM/Packs/TexasInstruments/MSP432P4xx_DFP/3.2.6/Device/Include-D__UVISION_VERSION="543" -D_RTE_ -D__MSP432P401R__-o ./objects/main.o -MMD)
+I (functions.h)(0x6AEBA989)
+I (C:\Keil_v5\ARM\Packs\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\msp.h)(0x6AA698A5)
+I (C:\Keil_v5\ARM\Packs\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\msp432p401r.h)(0x6AA698A5)
+I (C:\Keil_v5\ARM\Packs\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\msp_compatibility.h)(0x6AA698A5)
+I (C:\Keil_v5\ARM\Packs\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\msp432p401r_classic.h)(0x6AA698A5)
+I (C:\Keil_v5\ARM\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h)(0x6AA76AAB)
+I (C:\Keil_v5\ARM\Packs\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\system_msp432p401r.h)(0x6AA698A5)
+F (.\functions.h)(0x6AEBA989)()
+F (.\functions.c)(0x6AEBA99F)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Keil_v5/ARM/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Keil_v5/ARM/Packs/TexasInstruments/MSP432P4xx_DFP/3.2.6/Device/Include-D__UVISION_VERSION="543" -D_RTE_ -D__MSP432P401R__-o ./objects/functions.o -MMD)
+I (functions.h)(0x6AEBA989)
+I (C:\Keil_v5\ARM\Packs\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\msp.h)(0x6AA698A5)
+I (C:\Keil_v5\ARM\Packs\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\msp432p401r.h)(0x6AA698A5)
+I (C:\Keil_v5\ARM\Packs\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\msp_compatibility.h)(0x6AA698A5)
+I (C:\Keil_v5\ARM\Packs\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\msp432p401r_classic.h)(0x6AA698A5)
+I (C:\Keil_v5\ARM\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h)(0x6AA76AAB)
+I (C:\Keil_v5\ARM\Packs\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\system_msp432p401r.h)(0x6AA698A5)
+F (RTE/Device/MSP432P401R/startup_msp432p401r_uvision.s)(0x6AA698A5)(--target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -masm=auto  -Wa,armasm,--diag_suppress=A1950W -c-gdwarf-4 -Wa,armasm,--pd,"__EVAL SETA 1"-I./RTE/_Target_1-IC:/Keil_v5/ARM/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Keil_v5/ARM/Packs/TexasInstruments/MSP432P4xx_DFP/3.2.6/Device/Include-Wa,armasm,--pd,"__UVISION_VERSION SETA 543" -Wa,armasm,--pd,"_RTE_ SETA 1" -Wa,armasm,--pd,"__MSP432P401R__ SETA 1"-o ./objects/startup_msp432p401r_uvision.o)
+F (RTE/Device/MSP432P401R/system_msp432p401r.c)(0x6AA698A5)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Keil_v5/ARM/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Keil_v5/ARM/Packs/TexasInstruments/MSP432P4xx_DFP/3.2.6/Device/Include-D__UVISION_VERSION="543" -D_RTE_ -D__MSP432P401R__-o ./objects/system_msp432p401r.o -MMD)
+I (C:\Keil_v5\ARM\Packs\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\msp.h)(0x6AA698A5)
+I (C:\Keil_v5\ARM\Packs\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\msp432p401r.h)(0x6AA698A5)
+I (C:\Keil_v5\ARM\Packs\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\msp_compatibility.h)(0x6AA698A5)
+I (C:\Keil_v5\ARM\Packs\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\msp432p401r_classic.h)(0x6AA698A5)
+I (C:\Keil_v5\ARM\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h)(0x6AA76AAB)
+I (C:\Keil_v5\ARM\Packs\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\system_msp432p401r.h)(0x6AA698A5)
