@@ -17,8 +17,7 @@ This repository is organized by lab and contains the source code, project files,
 | Lab 3 | Basic I/O |
 | Lab 4 | I/O with interrupts |
 | Lab 5 | Timer |
-
-*Folder descriptions can be updated as more labs are added.*
+| Lab 6 | BSP and Software Development |
 
 ## Tools & Technologies
 
