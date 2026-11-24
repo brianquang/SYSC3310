@@ -20,12 +20,13 @@ This repository is organized by lab and contains the source code, project files,
 | Lab 6 | BSP and Software Development |
 
 ## Tools & Technologies
-
 - **Programming Languages:** C
 - **IDE:** Keil MDK
 - **Microcontroller:** Texas Instruments MSP432P401R
 - **Hardware:** MSP432 LaunchPad
 - **Debugging:** Keil Debugger
+<img width="2204" height="1480" alt="MSP-EXP432P401R" src="https://github.com/user-attachments/assets/d33c9bf7-8dd9-4dca-952e-26b7371a9358" />
+
 
 ## Purpose
 
